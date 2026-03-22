@@ -2,7 +2,7 @@
 
 Un ressource pack vide permettant de facilement modifier les textures des items de Politicraft pour les créateurs de ressources packs.
 
-Items pris en compte :
+Items pris en charge :
 - Les Certificats (y compris les certificats universels)
 - Les Gemmes et Lingots du passe
 
@@ -27,3 +27,6 @@ Pour les objets du passe :
 - les noms :
   - `gemme_du_politipasse.png` pour la gemme du passe
   - `lingot_du_politipasse.png` pour le lingot du passe
+
+## Enjoy !
+Vous êtes libre de modifier les textures comme bon vous semble, pour l'étendre, pour créer votre propre resource pack sans dépendance ...
