@@ -1,0 +1,236 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:component",
+		"component": "minecraft:custom_name",
+		"cases": [
+			{
+				"when": [
+					{"extra": [{"italic": false,"underlined": false,"bold": false,"color": "gold","obfuscated": false,"strikethrough": false,"text": "Certificat Bûcheron "},{"italic": false,"text": "| ","color": "dark_gray"},{"italic": false,"text": "Tier I","color": "gray"}],"text": ""}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/certificats/certificat_bucheron_tier_1"
+				}
+			},
+			{
+				"when": [
+					{"extra": [{"italic": false,"underlined": false,"bold": false,"color": "gold","obfuscated": false,"strikethrough": false,"text": "Certificat Bûcheron "},{"italic": false,"text": "| ","color": "dark_gray"},{"italic": false,"text": "Tier II","color": "dark_aqua"}],"text": ""}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/certificats/certificat_bucheron_tier_2"
+				}
+			},
+			{
+				"when": [
+					{"extra": [{"italic": false,"underlined": false,"bold": false,"color": "gold","obfuscated": false,"strikethrough": false,"text": "Certificat Bûcheron "},{"italic": false,"text": "| ","color": "dark_gray"},{"italic": false,"text": "Tier III","color": "blue"}],"text": ""}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/certificats/certificat_bucheron_tier_3"
+				}
+			},
+
+			{
+				"when": [
+					{"extra": [{"italic": false,"underlined": false,"bold": false,"color": "gold","obfuscated": false,"strikethrough": false,"text": "Certificat Chasseur "},{"italic": false,"text": "| ","color": "dark_gray"},{"italic": false,"text": "Tier I","color": "gray"}],"text": ""}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/certificats/certificat_chasseur_tier_1"
+				}
+			},
+			{
+				"when": [
+					{"extra": [{"italic": false,"underlined": false,"bold": false,"color": "gold","obfuscated": false,"strikethrough": false,"text": "Certificat Chasseur "},{"italic": false,"text": "| ","color": "dark_gray"},{"italic": false,"text": "Tier II","color": "dark_aqua"}],"text": ""}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/certificats/certificat_chasseur_tier_2"
+				}
+			},
+			{
+				"when": [
+					{"extra": [{"italic": false,"underlined": false,"bold": false,"color": "gold","obfuscated": false,"strikethrough": false,"text": "Certificat Chasseur "},{"italic": false,"text": "| ","color": "dark_gray"},{"italic": false,"text": "Tier III","color": "blue"}],"text": ""}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/certificats/certificat_chasseur_tier_3"
+				}
+			},
+			
+			{
+				"when": [
+					{"extra": [{"italic": false,"underlined": false,"bold": false,"color": "gold","obfuscated": false,"strikethrough": false,"text": "Certificat Fermier "},{"italic": false,"text": "| ","color": "dark_gray"},{"italic": false,"text": "Tier I","color": "gray"}],"text": ""}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/certificats/certificat_fermier_tier_1"
+				}
+			},
+			{
+				"when": [
+					{"extra": [{"italic": false,"underlined": false,"bold": false,"color": "gold","obfuscated": false,"strikethrough": false,"text": "Certificat Fermier "},{"italic": false,"text": "| ","color": "dark_gray"},{"italic": false,"text": "Tier II","color": "dark_aqua"}],"text": ""}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/certificats/certificat_fermier_tier_2"
+				}
+			},
+			{
+				"when": [
+					{"extra": [{"italic": false,"underlined": false,"bold": false,"color": "gold","obfuscated": false,"strikethrough": false,"text": "Certificat Fermier "},{"italic": false,"text": "| ","color": "dark_gray"},{"italic": false,"text": "Tier III","color": "blue"}],"text": ""}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/certificats/certificat_fermier_tier_3"
+				}
+			},
+
+			{
+				"when": [
+					{"extra": [{"italic": false,"underlined": false,"bold": false,"color": "gold","obfuscated": false,"strikethrough": false,"text": "Certificat Forgemage "},{"italic": false,"text": "| ","color": "dark_gray"},{"italic": false,"text": "Tier I","color": "gray"}],"text": ""}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/certificats/certificat_forgemage_tier_1"
+				}
+			},
+			{
+				"when": [
+					{"extra": [{"italic": false,"underlined": false,"bold": false,"color": "gold","obfuscated": false,"strikethrough": false,"text": "Certificat Forgemage "},{"italic": false,"text": "| ","color": "dark_gray"},{"italic": false,"text": "Tier II","color": "dark_aqua"}],"text": ""}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/certificats/certificat_forgemage_tier_2"
+				}
+			},
+			{
+				"when": [
+					{"extra": [{"italic": false,"underlined": false,"bold": false,"color": "gold","obfuscated": false,"strikethrough": false,"text": "Certificat Forgemage "},{"italic": false,"text": "| ","color": "dark_gray"},{"italic": false,"text": "Tier III","color": "blue"}],"text": ""}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/certificats/certificat_forgemage_tier_3"
+				}
+			},
+
+			{
+				"when": [
+					{"extra": [{"italic": false,"underlined": false,"bold": false,"color": "gold","obfuscated": false,"strikethrough": false,"text": "Certificat Ingénieur "},{"italic": false,"text": "| ","color": "dark_gray"},{"italic": false,"text": "Tier I","color": "gray"}],"text": ""}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/certificats/certificat_ingenieur_tier_1"
+				}
+			},
+			{
+				"when": [
+					{"extra": [{"italic": false,"underlined": false,"bold": false,"color": "gold","obfuscated": false,"strikethrough": false,"text": "Certificat Ingénieur "},{"italic": false,"text": "| ","color": "dark_gray"},{"italic": false,"text": "Tier II","color": "dark_aqua"}],"text": ""}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/certificats/certificat_ingenieur_tier_2"
+				}
+			},
+			{
+				"when": [
+					{"extra": [{"italic": false,"underlined": false,"bold": false,"color": "gold","obfuscated": false,"strikethrough": false,"text": "Certificat Ingénieur "},{"italic": false,"text": "| ","color": "dark_gray"},{"italic": false,"text": "Tier III","color": "blue"}],"text": ""}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/certificats/certificat_ingenieur_tier_3"
+				}
+			},
+			
+			{
+				"when": [
+					{"extra": [{"italic": false,"underlined": false,"bold": false,"color": "gold","obfuscated": false,"strikethrough": false,"text": "Certificat Mineur "},{"italic": false,"text": "| ","color": "dark_gray"},{"italic": false,"text": "Tier I","color": "gray"}],"text": ""}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/certificats/certificat_mineur_tier_1"
+				}
+			},
+			{
+				"when": [
+					{"extra": [{"italic": false,"underlined": false,"bold": false,"color": "gold","obfuscated": false,"strikethrough": false,"text": "Certificat Mineur "},{"italic": false,"text": "| ","color": "dark_gray"},{"italic": false,"text": "Tier II","color": "dark_aqua"}],"text": ""}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/certificats/certificat_mineur_tier_2"
+				}
+			},
+			{
+				"when": [
+					{"extra": [{"italic": false,"underlined": false,"bold": false,"color": "gold","obfuscated": false,"strikethrough": false,"text": "Certificat Mineur "},{"italic": false,"text": "| ","color": "dark_gray"},{"italic": false,"text": "Tier III","color": "blue"}],"text": ""}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/certificats/certificat_mineur_tier_3"
+				}
+			},
+
+			{
+				"when": [
+					{"extra": [{"italic": false,"underlined": false,"bold": false,"color": "gold","obfuscated": false,"strikethrough": false,"text": "Certificat Pêcheur "},{"italic": false,"text": "| ","color": "dark_gray"},{"italic": false,"text": "Tier I","color": "gray"}],"text": ""}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/certificats/certificat_pecheur_tier_1"
+				}
+			},
+			{
+				"when": [
+					{"extra": [{"italic": false,"underlined": false,"bold": false,"color": "gold","obfuscated": false,"strikethrough": false,"text": "Certificat Pêcheur "},{"italic": false,"text": "| ","color": "dark_gray"},{"italic": false,"text": "Tier II","color": "dark_aqua"}],"text": ""}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/certificats/certificat_pecheur_tier_2"
+				}
+			},
+			{
+				"when": [
+					{"extra": [{"italic": false,"underlined": false,"bold": false,"color": "gold","obfuscated": false,"strikethrough": false,"text": "Certificat Pêcheur "},{"italic": false,"text": "| ","color": "dark_gray"},{"italic": false,"text": "Tier III","color": "blue"}],"text": ""}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/certificats/certificat_pecheur_tier_3"
+				}
+			},
+			
+			{
+				"when": [
+					{"extra": [{"italic": false,"underlined": false,"bold": true,"color": "gold","obfuscated": false,"strikethrough": false,"text": "Certificat Universel "},{"italic": false,"text": "| ","bold": false,"color": "dark_gray"},{"italic": false,"text": "Tier I","color": "gray"}],"text": ""}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/certificats/certificat_universel_tier_1"
+				}
+			},
+			{
+				"when": [
+					{"extra": [{"italic": false,"underlined": false,"bold": true,"color": "gold","obfuscated": false,"strikethrough": false,"text": "Certificat Universel "},{"italic": false,"text": "| ","bold": false,"color": "dark_gray"},{"italic": false,"text": "Tier II","color": "dark_aqua"}],"text": ""}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/certificats/certificat_universel_tier_2"
+				}
+			},
+			{
+				"when": [
+					{"extra": [{"italic": false,"underlined": false,"bold": true,"color": "gold","obfuscated": false,"strikethrough": false,"text": "Certificat Universel "},{"italic": false,"text": "| ","bold": false,"color": "dark_gray"},{"italic": false,"text": "Tier III","color": "blue"}],"text": ""}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/certificats/certificat_universel_tier_3"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/paper"
+		}
+	}
+}
