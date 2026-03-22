@@ -8,9 +8,9 @@ Items pris en charge :
 
 ## Installation
 1. Télécharger le pack de ressources [ici](https://github.com/Pexep/PolitiPacks-bridge/releases/latest).
-2. Placer le fichier `.zip` dans le dossier `resourcepacks` de votre installation
-3. Faire pareil pour le ressource pack contenant les textures de votre choix qui s'appuie sur PolitiPacks-bridge
-4. Activer les deux packs de ressources dans le menu de sélection des packs de ressources de Minecraft, en veillant à ce que **PolitiPacks-bridge soit au-dessus** du pack de ressources contenant les textures personnalisées.
+2. Placer le fichier `.zip` dans le dossier `resourcepacks` de minecraft
+3. Faire pareil pour le ressource pack, contenant les textures de ton choix, qui s'appuie sur PolitiPacks-bridge
+4. Activer les deux packs de ressources dans le menu de sélection des packs de ressources de Minecraft, en veillant à ce que **PolitiPacks-bridge soit en-dessous** du pack de ressources contenant les textures personnalisées.
 
 ## Utilisation pour les créateurs de ressources packs
 Il n'y a pas grand chose à faire, il suffit de créer un pack de ressources en mettant les textures personnalisées dans le bon dossier et avec le bon nom.
@@ -19,14 +19,14 @@ Il n'y a pas grand chose à faire, il suffit de créer un pack de ressources en 
 Le dossier racine de toutes vos textures doit être `assets/minecraft/textures/item/`.
 
 Pour les certificats :
-- placez les dans le sous-dossier `certificats/`
-- nommez les `certificat_[nom du métier]_tier_[numéro du tier].png` (ex: `certificat_fermier_tier_2.png`)
+- placez-les dans le sous-dossier `certificats/`
+- nommez-les `certificat_[nom du métier]_tier_[numéro du tier].png` (ex: `certificat_fermier_tier_2.png`)
 
 Pour les objets du passe :
-- placez les dans le sous-dossier `passe/`
+- placez-les dans le sous-dossier `passe/`
 - les noms :
   - `gemme_du_politipasse.png` pour la gemme du passe
   - `lingot_du_politipasse.png` pour le lingot du passe
 
 ## Enjoy !
-Vous êtes libre de modifier les textures comme bon vous semble, pour l'étendre, pour créer votre propre resource pack sans dépendance ...
+Vous êtes libre de modifier le textures pack comme bon vous semble, pour l'étendre, pour créer votre propre resource pack sans dépendance ...
